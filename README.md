@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="ui/icon.png" width="128" alt="SimpleClock Icon" />
   <h1>SimpleClock</h1>
   <p>A beautiful, ultra-lightweight desktop clock widget equipped with a Stopwatch, Timer, and Alarms.</p>
 </div>
@@ -11,8 +10,6 @@
 - **Stopwatch**: Precision tracking with Lap support and delta time calculation.
 - **Timer**: Easy-to-use countdown timer with visual SVG progress ring, audio alerts, and system notifications.
 - **Alarms**: Manage daily alarms with toggle switches. The window flashes and rings when triggered.
-
-Originally built as a bulky 120MB+ Node.js web wrapper, this project was fully rewritten using **[Tauri v2](https://v2.tauri.app/)** (Rust). The new standalone Windows executable weighs exceptionally light (~8 MB), uses Native UI drop-shadows, adaptive window bounds, and requires practically zero system resources.
 
 ## 🚀 Features
 ✨ **Zero Web-Frameworks**: 100% Vanilla JavaScript, HTML5, and CSS3.  
